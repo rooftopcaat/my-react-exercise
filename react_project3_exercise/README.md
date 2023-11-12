@@ -1,4 +1,0 @@
-# react_project3_exercise
-react_project3_exercise
-
-with Vite
